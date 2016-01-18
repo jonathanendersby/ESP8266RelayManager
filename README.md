@@ -13,6 +13,9 @@ I've set mine up to connect to the wifi and then start hosting the web server on
 
 If you're not using the ESP8266-01 you will probably need to change the pin configurations.
 
+
+<img src="https://cloud.githubusercontent.com/assets/2000473/12397364/74dac5ee-be15-11e5-884b-0d0597b507a3.jpg" width="300" align="right" />
+
 ## Using the Web Interface
 Open your browser to http://192.168.0.20/ and you should get a pretty self explanatory interface with two buttons.
 
@@ -43,7 +46,6 @@ You'll receive a response like:
 ```
 
 Where state=1 means the relay is on, and set=1 means you've just set it that way.
-
 
 ## Notes
 * If you'd like to simply toggle a relay you can call http://192.168.0.20/relay2/toggle etc. 
