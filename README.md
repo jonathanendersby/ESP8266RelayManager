@@ -1,4 +1,7 @@
 # ESP8266RelayManager
+
+<img src="https://cloud.githubusercontent.com/assets/2000473/12383915/b0fe419c-bdb4-11e5-8514-7357cd682b5a.png" width="300" align="right"/>
+
 A simple 2 channel relay manager for the ESP8266 with a web inteface and API.
 
 I use this with an ESP8266-01 and a relay board similar to http://modtronix.com/mod-rly2-5v.html. This uses https://github.com/tzapu/WiFiManager which you'll need to install by following their instructions.
